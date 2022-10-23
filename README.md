@@ -28,7 +28,7 @@ more textto be added.
 ![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- #### 4 Wireless Technologies 
+ #### 4 Professional skills 
  ![5G](https://img.shields.io/badge/5G-blue)
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
