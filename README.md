@@ -28,7 +28,15 @@ more textto be added.
 ![Matlab](https://img.shields.io/badge/MATLAB-blueviolet)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- ### 4 Professional skills 
+
+ #### 4 Others
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Steamlit](https://img.shields.io/badge/STREAMLIT-blueviolet)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+ 
+ ### 5 Professional Skills 
  ![5G](https://img.shields.io/badge/5G-blue)
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
@@ -43,12 +51,7 @@ more textto be added.
 
 
  
- #### 5 Others
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Steamlit](https://img.shields.io/badge/STREAMLIT-blueviolet)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 
 
 
