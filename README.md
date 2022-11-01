@@ -36,7 +36,7 @@ more textto be added.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
- ### 5 Professional Skills 
+ ### 5 Professional Skills (Worked on Projects Funded by: NOKIA,BITTIUM, CNES, EU and University of Oulu)
  ![5G](https://img.shields.io/badge/5G-blue)
  ![Mobile Communication](https://img.shields.io/badge/Mobile-Communication-blue)
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
