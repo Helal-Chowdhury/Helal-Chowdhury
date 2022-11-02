@@ -1,8 +1,12 @@
 <img src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/BANER.png" width="1000" height="340">
-### Hi there 👋, my name
-#### to be----
 
-more textto be added.
+### Hi there 👋, my name is Helal Chowdhury. 
+#### I am wireless communication engineer and cloud and machine learning enthuasiast. I am from Finland leaving in Espoo. You can find me on
+<p align="left">
+<a href="https://www.linkedin.com/in/helal-ch"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/linkedin-circle-logo-16618.svg"></a>
+</p> 
+
+
 ### Technical Skills: 
 #### 1 Machine Learnig and Deep learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
