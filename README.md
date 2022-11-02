@@ -1,6 +1,6 @@
 <img src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/BANER.png" width="1000" height="340">
 
-### Hi there 👋, my name is Helal Chowdhury. 
+### Hi there 👋, My name is Helal Chowdhury. 
 #### I am wireless communication engineer and cloud and machine learning enthuasiast. I am from Finland leaving in Espoo. You can find me on
 <p align="left">
 <a href="https://www.linkedin.com/in/helal-ch"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/linkedin-circle-logo-16618.svg"></a>
@@ -12,11 +12,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
- ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
- ![Seaborn](https://img.shields.io/badge/SEABORN-%23#ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
- 
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
