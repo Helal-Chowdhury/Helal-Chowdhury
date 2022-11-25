@@ -45,7 +45,7 @@
  ![Visible light Communication](https://img.shields.io/badge/VisibleLight-Communications-blue)
  ![Signal Processing](https://img.shields.io/badge/Signal-Processing-blue)
  
- **First** PHD in Finland in Visible Light Communications 
+ **First** PHD in Finland in Visible Light Communications: [Thesis](http://jultika.oulu.fi/files/isbn9789526213620.pdf)
  
  Number of Publications: **24**
  
