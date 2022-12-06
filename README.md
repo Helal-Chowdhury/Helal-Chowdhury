@@ -1,7 +1,7 @@
 <img src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/BANER.png" width="1000" height="340">
 
 ### Hi there 👋, My name is Helal Chowdhury. 
-#### I am Wireless communication engineer and Cloud and Machine learning enthuasiast. I am from Finland leaving in Espoo. You can find me on
+#### I am Wireless communication engineer and Cloud and Machine learning enthuasiast. I am from Finland living in Espoo. You can find me on
 <p align="left">
 <a href="https://www.linkedin.com/in/helal-ch"><img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="https://github.com/Helal-Chowdhury/Helal-Chowdhury/blob/main/linkedin-circle-logo-16618.svg"></a>
 </p> 
